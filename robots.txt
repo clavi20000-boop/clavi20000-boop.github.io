@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clavi20000-boop.github.io/sitemap.xml
